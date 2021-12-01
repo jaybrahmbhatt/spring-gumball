@@ -1,3 +1,3 @@
 # spring-gumball ci/cd example
 
-- Adding the text to trigger CI build.
+- Adding the text to trigger CI.
